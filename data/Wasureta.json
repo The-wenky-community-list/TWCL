@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=q18YT5ss6fs",
     "percentToQualify": "100",
     "records": [
+         {
+            "user": "Justagoodboi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
