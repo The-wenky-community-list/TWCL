@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "records": [
         {
-            "Tuser": "Thunder Bolt",
+            "user": "Thunder Bolt",
             "link": "https://www.youtube.com/watch?v=bPNdFOHJ-RA",
             "percent": 100,
             "hz": 360
