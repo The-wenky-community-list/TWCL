@@ -7,5 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=ru4_i4GXg8o",
     "percentToQualify": "53",
     "records": [
+          {
+            "user": "SharkManGMD",
+            "link": "https://thewenkycommunitylist.mobilewenky.workers.dev/#/",
+            "percent": 92,
+            "hz": 360
+        },
+        {
+            "user": "Mjsgd",
+            "link": "https://thewenkycommunitylist.mobilewenky.workers.dev/#/",
+            "percent": 76,
+            "hz": 120
+        }
     ]
 }
