@@ -5,12 +5,12 @@
     "creators": [],
     "verifier": "Wenky",
     "verification": "https://www.youtube.com/watch?v=JL_EoMX_sVs",
-    "percentToQualify": "25-51",
+    "percentToQualify": "100",
     "records": [
          {
             "user": "Nezzengd",
             "link": "https://www.youtube.com/shorts/JYexpC4xw5A",
-            "percent": 25-51,
+            "percent": 100,
             "hz": 360
         }
     ]
