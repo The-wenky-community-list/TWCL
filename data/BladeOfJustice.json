@@ -3,19 +3,25 @@
       "name": "Blade Of Justice 100%",
     "author": "Manix648",
     "creators": [],
-    "verifier": "Asger gaming1",
-    "verification": "https://www.youtube.com/watch?v=JH_IPlhizRI",
+    "verifier": "Justachillboi",
+    "verification": "https://www.youtube.com/watch?v=SolInuhgl_U",
     "percentToQualify": "49",
     "records": [
         {
-            "user": "Wenky",
-            "link": "https://www.youtube.com/watch?v=buB547-U_DM",
+            "user": "Asger gaming1",
+            "link": "https://www.youtube.com/watch?v=JH_IPlhizRI",
             "percent": 100,
             "hz": 360
         },
          {
             "user": "SharkManGMD",
             "link": "https://www.youtube.com/watch?v=FyPznYm3Ylw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wenky",
+            "link": "https://www.youtube.com/watch?v=buB547-U_DM",
             "percent": 100,
             "hz": 360
         },
