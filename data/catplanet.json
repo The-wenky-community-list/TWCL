@@ -1,1 +1,15 @@
-
+{
+    "id": 84766628,
+      "name": "Cat Planet 100%",
+    "author": "IcEDCave",
+    "creators": [],
+    "verifier": "Wenky",
+    "verification": "https://www.youtube.com/watch?v=q-mQLLYV3So",
+    "percentToQualify": "68",
+    "records": [
+          {
+            "user": "Thunder bolt",
+            "link": "https://www.youtube.com/watch?v=AU_sgLXiVs8",
+            "percent": 100,
+            "hz": 360
+        },
