@@ -3,9 +3,28 @@
       "name": "aftermath 100%",
     "author": "exinity",
     "creators": [],
-    "verifier": "Asger gaming1",
+    "verifier": "Asger Gaming1",
     "verification": "https://www.youtube.com/watch?v=QepPdomgPzg",
     "percentToQualify": "69",
     "records": [
+         {
+            "user": "Thunder bolt",
+            "link": "https://www.youtube.com/watch?v=w9L30YOUu1E",
+            "percent": 100,
+            "hz": 360
+        },
+           {
+            "user": "Wenky",
+            "link": "https://www.youtube.com/watch?v=N3IDsCRvkm0",
+            "percent": 100,
+            "hz": 360
+        },
+                   {
+            "user": "Justachillboi",
+            "link": "https://www.youtube.com/watch?v=ohEBCTNhDRo",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }
