@@ -1,0 +1,17 @@
+{
+    "id": 125011730,
+      "name": "Conical happiness 100%",
+    "author": "Jus71n401",
+    "creators": [],
+    "verifier": "Wenky",
+    "verification": "https://www.youtube.com/watch?v=MACT2z0wEXQ",
+    "percentToQualify": "65",
+    "records": [
+          {
+            "user": "Mjsgd",
+            "link": "https://www.youtube.com/watch?v=tL1AZ4puFNg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
